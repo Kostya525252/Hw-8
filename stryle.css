@@ -13,3 +13,32 @@ color: pink;
   #greycolor {
     color: grey;
   }
+  article li:first-child {
+    color: blue;
+  }
+  article li:last-child {
+    color: red;
+  }
+  article li:nth-child(3) {
+    color: chartreuse;
+  }
+  article li:nth-child(4) {
+    color: cyan;
+  }
+  article li:nth-child(2) {
+    color: brown;
+  }
+  .lessons:hover {
+    background-color: gold;
+  }
+  .lessons:focus {
+    color: black;
+  }
+  .lessons {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .lessons:focus {
+    color: darkgreen;
+  }
+  
