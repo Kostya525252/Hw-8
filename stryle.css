@@ -1,44 +1,46 @@
 .text-box div p {
-    color: red;
+  color: red;
 }
-  .text-box h3:first-child  {
+.text-box h3:first-child  {
 color: pink;
-  }
-  .text-box p:nth-last-child(2) {
-    color: green;
-  }
-  .yellow {
-    color: yellow;
-  }
-  #greycolor {
-    color: grey;
-  }
-  article li:first-child {
-    color: blue;
-  }
-  article li:last-child {
-    color: red;
-  }
-  article li:nth-child(3) {
-    color: chartreuse;
-  }
-  article li:nth-child(4) {
-    color: cyan;
-  }
-  article li:nth-child(2) {
-    color: brown;
-  }
-  .lessons:hover {
-    background-color: gold;
-  }
-  .lessons:focus {
-    color: black;
-  }
-  .lessons {
-    font-size: 20px;
-    font-weight: bold;
-  }
-  .lessons:focus {
-    color: darkgreen;
-  }
-  
+}
+.text-box p:nth-last-child(2) {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+#greycol {
+  color: grey;
+}
+article li:first-child {
+  color: blue;
+}
+article li:last-child {
+  color: red;
+}
+article li:nth-child(3) {
+  color: chartreuse;
+}
+article li:nth-child(4) {
+  color: cyan;
+}
+article li:nth-child(2) {
+  color: brown;
+}
+.lessons1:hover {
+  background-color: gold;
+}
+.lessons2:hover {
+  background-color: violet;
+}
+.lessons3:hover {
+  background-color: blueviolet;
+}
+.lessons4:hover {
+  background-color: tomato;
+}
+.lessons5:hover {
+  background-color: springgreen;
+}
+
